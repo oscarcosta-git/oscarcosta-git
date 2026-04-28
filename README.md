@@ -6,7 +6,7 @@
 
 📍 Sydney, Australia &nbsp;|&nbsp; 🎓 2nd Year Bachelor of Information Technology &nbsp;|&nbsp; 💻 Passionate about clean, purposeful code
 
-[![Email](https://img.shields.io/badge/Email-slurpydevv%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oscar.costa102@gmail.com)
+[![Email](https://img.shields.io/badge/Email-oscar.costa102%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oscar.costa102@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-oscarcosta--git-181717?style=flat&logo=github&logoColor=white)](https://github.com/oscarcosta-git)
 
 </div>
